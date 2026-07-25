@@ -2,7 +2,7 @@
 
 A simple web tool that audits any URL and returns a structured report.
 
-**Live demo:** (add your Render URL after deployment)
+**Live demo:** https://url-auditor-rngo.onrender.com
 
 Built for [Digital Heroes Training Task](https://digitalheroesco.com).
 
