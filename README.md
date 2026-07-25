@@ -4,7 +4,7 @@ A small Flask web tool that fetches a public URL and returns a concise page-heal
 
 **Live demo:** https://url-auditor-rngo.onrender.com/
 
-**Loom demo:** _Add your Loom share link here after recording._
+**Loom demo:**  https://www.loom.com/share/dcb58ff844e44ccf9fb25d5333d776de
 
 Built for [Digital Heroes Training Task](https://digitalheroesco.com/).
 
